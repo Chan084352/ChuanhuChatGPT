@@ -40,13 +40,11 @@ CONCURRENT_COUNT = 100 # 允许同时使用的用户数量
 SIM_K = 5
 INDEX_QUERY_TEMPRATURE = 1.0
 
-CHUANHU_TITLE = """<h1 align="left">川虎Chat 🚀</h1>"""
+CHUANHU_TITLE = """<h1 align="left">智享AI Plus Chat 🚀</h1>"""
 CHUANHU_DESCRIPTION = """\
 <div align="center" style="margin:16px 0">
 
-由Bilibili [土川虎虎虎](https://space.bilibili.com/29125536) 和 [明昭MZhao](https://space.bilibili.com/24807452)开发
-
-访问川虎Chat的 [GitHub项目](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 下载最新版脚本
+关注同名微信公众号@智享AI Plus ，可在微信公众号使用，如需帮助加微信：Chan_1111,本团队致力于为个人、企业提供AI解决方案。
 
 </div>
 """
